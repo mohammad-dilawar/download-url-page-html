@@ -1,6 +1,6 @@
 # download-url-page-html
 download the whole html code of web page.
-# npm i uuid
+# npm i uuid //to install uuid
 # run  in this command in terminal >node download.js http://www.google.com
 
 You would see an output similar to this:
