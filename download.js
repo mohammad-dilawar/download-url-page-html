@@ -5,7 +5,7 @@ const path = require('path')
 const { v4: uuidv4 } = require('uuid');
 
 
-const downloadPage = (url='http://nodeprogram.com') => {
+const downloadPage = (url='http://www.google.com') => {
     console.log('downloading', url)
 
  
